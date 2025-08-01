@@ -1,0 +1,14 @@
+.header{ 
+        background-color: aquamarine; 
+        color: blueviolet;
+        padding: 10px;
+        text-align: center;
+
+       
+
+    }
+    /*.name-text.*/
+    .name-text:hover{
+        font-size: 48px;
+        color: black;
+    }
